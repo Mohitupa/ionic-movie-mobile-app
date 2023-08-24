@@ -1,5 +1,7 @@
 {
-  "name": "movieApp",
-  "integrations": {},
-  "type": "angular"
+    "name": "movieApp",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "angular"
 }
